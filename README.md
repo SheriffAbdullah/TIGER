@@ -2,4 +2,4 @@
 
 
 # TIGER
-Timetable Generator with Professor Preferences using Genetic Algorithms to generate timetables in 0.1s, using Python3 and libraries: numpy, Tkinter.
+Proprietary Timetable Generator with Professor Preferences using Genetic Algorithms to generate timetables in 0.1s, using Python3 and libraries: numpy, Tkinter.
